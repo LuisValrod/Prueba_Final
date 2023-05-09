@@ -1,0 +1,2 @@
+Esto es la practica final del Modulo 1 - GIT, Controlador de versiones.
+Para esta practica cuento con un teclado ingles sin el number-pad, con lo que no puedo hacer uso de los comandos ASCII (Alt+'numero') para incluir caracteres como exclamaciones o tildes. Disculpe. Intentare mejorarlo para futuros proyectos.
